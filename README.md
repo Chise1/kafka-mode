@@ -7,7 +7,7 @@
 
 ## 修改docker-compose.yaml文件
 
-修改文件中```      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://192.168.202.219:9093```的ip为服务器ip
+修改文件中```      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://192.168.202.219:9093```的ip为服务器ip（有三处）
 
 ## 启动服务
 
